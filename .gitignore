@@ -1,0 +1,10 @@
+# Metadata Files
+*DS_Store
+
+# Secrets
+*sql-variables.php
+*sql-connections.php
+
+# SQL-Dump and CSV Files
+*MOCKS20-data.sql
+*MOCKS20-data.csv
